@@ -1,0 +1,22 @@
+
+table {
+    border: #000000 solid 1px;
+    margin: 4px auto;
+}
+
+td {
+    border: #000000 solid 1px;
+}
+
+div.center {
+    text-align: center;
+}
+
+button {
+    display: inline-block;
+    margin: 4px auto;
+}
+
+
+
+
